@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "26692EB2-8B3B-4C7D-B964-6A1CC388520F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E624BFE1-4E4A-4BAB-9277-2EC348CA9358"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjektnaEvidencija/DodavanjeUlogeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "DodavanjeUlogeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E624BFE1-4E4A-4BAB-9277-2EC348CA9358 - 39c9b35ffa79000b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjektnaEvidencija.DodavanjeUlogeViewController.datumZaduzenjaPicker.getter : Swift.Optional&lt;__C.UIDatePicker&gt;"
+                  moduleName = "ProjektnaEvidencija"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominikpetrovic/Desktop/ProjektnaEvidencija/ProjektnaEvidencija/DodavanjeUlogeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E624BFE1-4E4A-4BAB-9277-2EC348CA9358 - 69d9d11612a1801f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjektnaEvidencija.DodavanjeUlogeViewController.datumZaduzenjaPicker.setter : Swift.Optional&lt;__C.UIDatePicker&gt;"
+                  moduleName = "ProjektnaEvidencija"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominikpetrovic/Desktop/ProjektnaEvidencija/ProjektnaEvidencija/DodavanjeUlogeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "E624BFE1-4E4A-4BAB-9277-2EC348CA9358 - 81d1a07aa6c54001"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjektnaEvidencija.DodavanjeUlogeViewController.datumZaduzenjaPicker.modify : Swift.Optional&lt;__C.UIDatePicker&gt;"
+                  moduleName = "ProjektnaEvidencija"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominikpetrovic/Desktop/ProjektnaEvidencija/ProjektnaEvidencija/DodavanjeUlogeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "E624BFE1-4E4A-4BAB-9277-2EC348CA9358 - 6025dffaa5110b33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjektnaEvidencija.DodavanjeUlogeViewController.datumZaduzenjaPicker.modify : Swift.Optional&lt;__C.UIDatePicker&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ProjektnaEvidencija"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominikpetrovic/Desktop/ProjektnaEvidencija/ProjektnaEvidencija/DodavanjeUlogeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "E624BFE1-4E4A-4BAB-9277-2EC348CA9358 - 8e5d98049b972a50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjektnaEvidencija.DodavanjeUlogeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ProjektnaEvidencija.DodavanjeUlogeViewController"
+                  moduleName = "ProjektnaEvidencija"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominikpetrovic/Desktop/ProjektnaEvidencija/ProjektnaEvidencija/DodavanjeUlogeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "E624BFE1-4E4A-4BAB-9277-2EC348CA9358 - a3b97884fd616796"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjektnaEvidencija.DodavanjeUlogeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ProjektnaEvidencija.DodavanjeUlogeViewController&gt;"
+                  moduleName = "ProjektnaEvidencija"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominikpetrovic/Desktop/ProjektnaEvidencija/ProjektnaEvidencija/DodavanjeUlogeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "633">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
